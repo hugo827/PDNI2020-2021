@@ -1,7 +1,7 @@
 # PDNI2020-2021
 Membres du groupe : 
-Robin Leclercq
-Alexandre Lambert
+Robin Leclercq,
+Alexandre Lambert,
 Hugo Janssens
 
 État d'avancement : 
