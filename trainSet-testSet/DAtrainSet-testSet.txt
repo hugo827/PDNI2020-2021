@@ -1,0 +1,75 @@
+Robin, Alexandre, Hugo
+
+---* Création de trainSet.csv
+Créer trainSet.csv // Avec nom des colonnes
+// Pour chaque combinaison (personne, mouvement) : une ligne sera créée
+// Le fichier contiendra nbMouvements * nbPersonnes lignes et sera trié par mouvement
+// Important : on a considéré que les dossiers ayant des noms similaires (ex : dws_1, dws_2) sont des mouvements différents
+Ouvrir data_subjectfs_info.csv
+
+iDossier = 0
+ligneTrainset = 1 // La ligne 0 étant les noms des colonnes
+do while(iDossier < 15)
+iFile = 1
+do while(iFile < 25)
+Ouvrir le fichier "sub_iFile.csv"
+ligneFile = 1 // La première ligne représente le nom des colonnes
+dixièmeSeconde = 0
+do while(dixièmeSeconde < 10)
+// accX,..., accZ  proviennent du fichier de données et plus précisement de ligneFile
+acceleration = sqrt(accX² + accY² + accZ²)
+écrire acceleration à la ligneTrainset dans le fichier trainSet.csv dans la colonne prévue
+ligneFile++
+dixièmeSeconde++
+enddo
+// Le mouvement est issu du nom du dossier en cours
+Écrire identifiant, mouvement à la ligneTrainset dans le fichier trainSet.csv
+Écrire le genre à partir du fichier data_subjects_info.csv à ligne iFile (pour la personne en question)
+ligneTrainset++
+Fermer le fichier "sub_iFile.csv"
+iFile++
+enddo
+iDossier++
+enddo
+
+Fermer data_subjectfs_info.csv
+Fermer trainSet.csv
+------
+
+---* Création de testSet.csv
+Créer testSet.csv // Avec nom des colonnes
+// Pour chaque combinaison (personne, mouvement) : une ligne sera créée
+Ouvrir data_subjectfs_info.csv
+
+iDossier = 0
+ligneTrainset = 1 // La ligne 0 étant les noms des colonnes
+do while(iDossier < 15)
+iFile = 1
+do while(iFile < 25)
+Ouvrir le fichier "sub_iFile.csv"
+ligneFile = 1 // La première ligne représente le nom des colonnes
+nbLignesFile : le nombre de lignes dans le fichier en cours
+ligneEnCours = nbLignesFile * random()
+// random() est une fonction renvoyant un réel entre 0 et 1
+do while(ligneFile < nbLignesFile/10)
+// ligneFile est un compteur sur le nombre de ligne souhaité
+// ligneEnCours désigne une ligne choisie aléatoirement
+// accX,..., accZ  proviennent du fichier de données et plus précisement de la ligne ligneEnCours
+acceleration = sqrt(accX² + accY² + accZ²)
+Écrire acceleration à la ligneTrainset dans le fichier testSet.csv dans la colonne prévue
+ligneFile++
+ligneEnCours = nbLignesFile * random()
+enddo
+// Le mouvement est issu du nom du dossier en cours
+Écrire identifiant, mouvement à la ligneTrainset dans le fichier testSet.csv
+Écrire le genre à partir du fichier data_subjects_info.csv à ligne iFile (pour la personne en question)
+ligneTrainset++
+Fermer le fichier "sub_iFile.csv"
+iFile++
+enddo
+iDossier++
+enddo
+
+Fermer data_subjectfs_info.csv
+fermer testSet.csv
+------
