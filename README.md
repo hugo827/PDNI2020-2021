@@ -6,5 +6,5 @@ Hugo Janssens
 
 Partie traitement des résultats : fini
 
-Phase 1 : création de dataset
+Phase 1 création de dataset :
 D.A remis
