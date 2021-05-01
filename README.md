@@ -6,5 +6,7 @@ Hugo Janssens
 
 Partie traitement des résultats : fini
 
-Phase 1 création de dataset :
-D.A : remis / Code : commencé
+Phase 1 création de datasets :
+D.A : remis / Code : terminé
+
+Le code de la partie traitement des résultats et de la partie création de datasets sont ensembles dans le dossier "ProjetPDNI"
