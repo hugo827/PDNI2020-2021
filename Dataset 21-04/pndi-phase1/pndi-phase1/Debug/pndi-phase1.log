@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\Me\source\repos\pndi-phase1\pndi-phase1\main.c(14,8): warning C4101: 'trainSet': unreferenced local variable
-C:\Users\Me\source\repos\pndi-phase1\pndi-phase1\main.c(15,8): warning C4101: 'testSet': unreferenced local variable
-  pndi-phase1.vcxproj -> C:\Users\Me\source\repos\pndi-phase1\Debug\pndi-phase1.exe
