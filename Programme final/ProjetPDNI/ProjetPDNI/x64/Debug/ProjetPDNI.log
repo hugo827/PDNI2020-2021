@@ -1,0 +1,7 @@
+﻿  CreateDatasets.c
+  CreateModels.c
+  Display.c
+  Main.c
+  Treatment.c
+  Génération de code en cours...
+..\..\classificationStatistics\classificationStatistics.obj : fatal error LNK1112: type d'ordinateur module 'x86' en conflit avec le type d'ordinateur cible 'x64'
