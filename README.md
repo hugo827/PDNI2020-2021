@@ -20,5 +20,5 @@ cible 'x64').
 
 Nous avons codé en multifichiers : 
 - les fichiers "Treatment.c" et "Display.c" assurent le traitement des résultats
-- le fichier "createDatasets.c" se charge de créer les 2 datasets
-- le fichier "createModels.c" crée les 3 fichiers modèles.
+- le fichier "CreateDatasets.c" se charge de créer les 2 datasets
+- le fichier "CreateModels.c" crée les 3 fichiers modèles.
