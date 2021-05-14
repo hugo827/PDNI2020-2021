@@ -1,0 +1,38 @@
+﻿  CreateDatasets.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4028: paramètre formel 2 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\CreateDatasets.c(9,18): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  CreateModels.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4028: paramètre formel 2 différent de la déclaration
+  Display.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4028: paramètre formel 2 différent de la déclaration
+  Evaluation.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4028: paramètre formel 2 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(34,35): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(35,38): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(36,34): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(18,8): warning C4101: 'value' : variable locale non référencée
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(104,52): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Main.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4028: paramètre formel 2 différent de la déclaration
+  Treatment.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(50,61): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4030: première liste de paramètres formels plus longue que la seconde
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Headers.h(51,98): warning C4028: paramètre formel 2 différent de la déclaration
+  Génération de code en cours...
+..\..\classificationStatistics\classificationStatistics.obj : fatal error LNK1112: type d'ordinateur module 'x86' en conflit avec le type d'ordinateur cible 'x64'
