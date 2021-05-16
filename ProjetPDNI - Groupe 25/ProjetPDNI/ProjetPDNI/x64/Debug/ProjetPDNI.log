@@ -1,0 +1,14 @@
+﻿  CreateDatasets.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\CreateDatasets.c(9,18): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  CreateModels.c
+  Display.c
+  Main.c
+  Evaluation.c
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(35,33): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(36,36): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(37,32): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(18,8): warning C4101: 'value' : variable locale non référencée
+C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\ProjetPDNI\Evaluation.c(108,50): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Treatment.c
+  Génération de code en cours...
+  ProjetPDNI.vcxproj -> C:\Users\Robin\Google Drive\IG\B2\Q2\DataIntel\TDD2021\EXAM\Programme final avec statistics\ProjetPDNI - Groupe 25\ProjetPDNI\x64\Debug\ProjetPDNI.exe
