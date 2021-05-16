@@ -16,7 +16,7 @@ D.A : remis / Code : terminé et fonctionnel
 Phase 3 évaluation du testSet :
 D.A : remis / Code : terminé et fonctionnel
 
-Nous avons également ajouter les fichiers "classificationStatistics", cependant le programme ne fonctionne plus sur ma machine car
+Nous avons également ajouté les fichiers "classificationStatistics", cependant le programme ne fonctionne plus sur ma machine car
 le .obj est configuré en 32 bits alors que ma machine tourne en 64 bits (Erreur : LNK1112 : type d'ordinateur module 'x86' en conflit avec le type d'ordinateur
 cible 'x64').
 
